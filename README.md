@@ -29,8 +29,8 @@ Open index.html
 ## Features
 
 - async await fetch request
-- Populate UI dynamically with quote from API, [link to API!](https://forismatic.com/en/api/)
-- CORS error, fixed using Proxy API, [link to Montserrat!](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
+- Populate UI dynamically with quote from API, [link to quote API!](https://forismatic.com/en/api/)
+- CORS error, fixed using Proxy API, [link to CORS fix!](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9)
 - Twitter integration, [link to Twitter!](https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent)
 - Use HeroPatterns for vetcor background (Circuit Board), [link to HeroPatterns!](https://www.heropatterns.com/)
 - Google Font (Montserrat), [link to Montserrat!](https://fonts.google.com/specimen/Montserrat?query=monts)
